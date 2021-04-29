@@ -11,8 +11,8 @@ public class Calculadora {
          * Declaracion de las variables que ocupamos en la calculadora para
          * realizar las operaciones necesarias.
          */
-        int numA = 10;
-        int numB = 6;
+        int numA = 6;
+        int numB = 9;
 
 
         Operaciones operacion = new Operaciones();
